@@ -1,4 +1,6 @@
-i am ling hucosng'
+i am ling 
+已修改用户名和邮箱
+hucosng'
 已要请删除Windows凭证
 aaaaa
 bbbbb
